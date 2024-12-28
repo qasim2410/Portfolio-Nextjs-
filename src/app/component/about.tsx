@@ -22,7 +22,7 @@ const About = () => {
         <br className="hidden lg:inline-block" />
       </h1>
        <p className="mb-5 leading-relaxed">
-       Hello! I'm Qasim, a freelance Frontend Web Developer based in karachi. I’m very passionate about the work that I do.
+      Hello! I'm Qasim, a freelance Frontend Web Developer based in Karachi. I’m very passionate about the work that I do.
       </p> 
      
       <div className="flex justify-center">
