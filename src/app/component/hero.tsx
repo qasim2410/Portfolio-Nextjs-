@@ -24,8 +24,8 @@ const Hero = () => {
       </h1>
       <div className='w-[100px] h-[2px] bg-blue-700'></div>
       <p className="mb-8 leading-relaxed">
-      Hello! I'm Qasim, a freelance Frontend Web Developer based in karachi. I’m very passionate about the work that I do.
-      </p>
+      Hello! I&apos;m Qasim Hussain, Frontend Web Developer based in Karachi. I&rsquo;m very passionate about the work that I do.
+</p>
       <div className="flex justify-center">
         <Link href={"#Contact"}>
         <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">
